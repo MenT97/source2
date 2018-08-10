@@ -143,7 +143,7 @@
     "chatcleared": "\/me [@%%NAME%%] Vy\u010distil\/a chat.",
     "deletechat": "\/me [@%%NAME%%] Vy\u010distil\/a chat od %%USERNAME%%.",
     "commandslink": "\/me %%BOTNAME%% p\u0159\u00edkazy: %%LINK%%",
-    "eatcookie": "me J\u00edst su\u0161enky.",
+    "eatcookie": " J\u00edm su\u0161enky, nech ma!",
     "nousercookie": "\/em nevid\u00edm u\u017eivatele %%NAME%% v m\u00edstnosti, nem\u016f\u017ee\u0161 s n\u00edm j\u00edst su\u0161enky.",
     "selfcookie": "\/me @%%NAME%%, nejsi trochu chamtiv\u00fd\/\u00e1? D\u00e1vat su\u0161enky sob\u011b. Heh. Rozd\u011bl se s ostatn\u00edmi!",
     "cookie": "\/me @%%NAMETO%%, %%NAMEFROM%% %%COOKIE%%",
